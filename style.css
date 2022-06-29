@@ -1,0 +1,24 @@
+body{
+color:rgb(241, 232, 58);
+background:rgb(244, 11, 11)
+
+}
+
+#img_rec{
+ width: 80%;  
+ font-size:22px; 
+}
+
+.name_of_objects{
+  color: rgb(240, 145, 67);
+}
+
+#result_object_accuracy,#result_object_name{
+color: darkgreen;
+}
+
+#camera{
+border: 2px dashed black;
+width: 350px;
+height: 300px;
+}
